@@ -11,7 +11,7 @@ Este es un intérprete de comandos interactivo (Mini Shell) desarrollado en Pyth
 ✅ Soporte para tuberías `|` entre comandos  
 ✅ Comandos de texto como `cat`, `sort`, `head`, `echo`  
 ✅ Historial de comandos con `history`  
-✅ Multiplataforma (Windows, Linux, macOS)
+✅ Multiplataforma (Windows, Linux)
 
 ---
 
@@ -127,7 +127,7 @@ history
 
 - Python 3.7 o superior
 - No requiere paquetes externos
-- Compatible con Windows, Linux y macOS
+- Compatible con Windows y Linux
 
 ---
 
