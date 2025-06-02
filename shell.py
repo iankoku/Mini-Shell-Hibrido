@@ -17,6 +17,6 @@ def main():
                 add_to_history(command)
                 execute_command(command)
         except KeyboardInterrupt:
-            print("\nPresione Ctrl+D o escriba 'exit' para salir.")
+            print("\nEscriba 'exit' para salir.")
         except EOFError:
             break
